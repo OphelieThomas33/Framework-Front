@@ -1,0 +1,19 @@
+body {
+    background-color: lightcoral;
+}
+
+.modal {
+    background-color: white;
+    border: solid 1px #EEEEEE;
+    border-radius: 5px;
+    position: fixed;
+    padding: 5px;
+    top: 15px;
+    box-shadow: 5px 5px 5px gray;
+    min-width: 350px;
+    max-width: 100%;
+    left: 50vw;
+    right: 50%;
+    top: 50%;
+    bottom: 50vh;
+}
